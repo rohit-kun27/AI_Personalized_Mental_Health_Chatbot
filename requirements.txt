@@ -1,0 +1,6 @@
+Streamlit
+Transformers
+Pytorch
+Ollama 
+Numpy
+Pandas
